@@ -1,0 +1,6 @@
+{
+  "name": "CareBridge – Migrant Health Records",
+  "description": "Digital Health Record Management System for Migrant Workers in Kerala aligned with UN Sustainable Development Goals (SDG 3, SDG 8, and SDG 10).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
